@@ -1,6 +1,3 @@
-/
-README.js
-
 # @deadapi/input
 
 A flexible input gathering and validation utility for Node.js. Supports multiple data types, including strings, numbers, arrays, tuples, and more, with both synchronous and asynchronous modes.
