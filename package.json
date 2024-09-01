@@ -2,7 +2,7 @@
   "name": "@deadapi/input",
   "version": "1.0.0",
   "description": "A flexible input gathering and validation utility for Node.js. Supports multiple data types, including strings, numbers, arrays, and tuples, with both synchronous and asynchronous modes.",
-  "main": "index.js",
+  "main": "new.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,8 +12,8 @@
     "uuid": "^10.0.0",
     "validator": "^13.12.0"
   },
-  "author": "deadapi-username",
-  "license": "ISC",
+  "author": "deadapi",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/deadapi/input.git"
