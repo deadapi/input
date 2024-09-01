@@ -9,7 +9,7 @@ const urlRegex = /^(https?:\/\/)?([\w\d\-_]+\.)+[\w\d\-_]+(\/[\w\d\-_]*)*$/;
 const ipRegex =
   /^(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$/;
 const hexColorRegex = /^#([0-9A-Fa-f]{6}|[0-9A-Fa-f]{3})$/;
-const creditCardRegex = /^(\d{4}[- ]?){3}\d{4}$/; // Simplified for example purposes
+const creditCardRegex = /^(\d{4}[- ]?){3}\d{4}$/; // Simplified for general purposes
 
 function input(typeString, promptStr, options = {}) {
   const promptMessage = promptStr.replace(/{}/g, "");
