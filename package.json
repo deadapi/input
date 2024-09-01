@@ -21,5 +21,18 @@
   "bugs": {
     "url": "https://github.com/deadapi/input/issues"
   },
-  "homepage": "https://github.com/deadapi/input#readme"
+  "homepage": "https://github.com/deadapi/input#readme",
+  "keywords": [
+    "input",
+    "validation",
+    "node",
+    "prompt",
+    "sync",
+    "async",
+    "utility",
+    "data types",
+    "user input",
+    "javascript",
+    "node.js"
+  ]
 }
