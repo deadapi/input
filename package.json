@@ -34,5 +34,8 @@
     "user input",
     "javascript",
     "node.js"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
